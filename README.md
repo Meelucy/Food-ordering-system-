@@ -19,79 +19,38 @@ FUTIS Chicken aims to revolutionize the way customer and employee data is manage
 <h2>How does the System works</h2>
 
 
-<p align=”center”>
+
+Home:
+
+![image](https://github.com/user-attachments/assets/7f2e71a6-62b0-414a-ad78-8f76b650040f)
+
+
+<br />
+
+  <br/>
 
 Registration form: 
 
-
-![image](https://github.com/user-attachments/assets/ec1ef86f-d6b8-4b25-9bc1-bca0b97c5cb1)
-
+![image](https://github.com/user-attachments/assets/7ccd11df-6e51-410a-b7aa-3d844ed67f5c)
 
 
 
 <br />
 
 <br />
-
-Login form:
-
+Login Form:
 
  <br/>
 
+![image](https://github.com/user-attachments/assets/0124425a-2bb1-4692-a0e0-4ada08617695)
 
- 
-![image](https://github.com/user-attachments/assets/0db85d47-13d3-4aa8-a09a-e33e33530058)<br/>
-
-
-
-![image](https://github.com/user-attachments/assets/0f49400a-f45b-49ed-a127-0b06a0934cd2)
 
 
 
 <br />
 
 <br />
+
 Store:
-
- <br/>
-
-![image](https://github.com/user-attachments/assets/dfa2d8ed-69d2-4e6b-a167-92643425c494)
-
-
-
-
-<br />
-
-<br />
-
-About Clients:
-
-Information of the customer will be display here
-
-  <br/>
-
-![image](https://github.com/user-attachments/assets/e19d6f2e-e066-476d-832b-96d432259ae3)
-
-
-<br />
-
-<br />
-
-Check Interest Rates:
-
-The user be asked to enter any amount then the system will calculate the interest and display it together with the total payable amount.
-
-  <br/>
-
-![image](https://github.com/user-attachments/assets/9439578f-f723-425b-bbfd-72f258a3e637)
-
-
-<br />
-
-<br />
-
-EXIT:
-
-This option will end the program.
 
  <br/>
